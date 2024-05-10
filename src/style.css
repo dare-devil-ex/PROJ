@@ -1,0 +1,89 @@
+*{
+    text-decoration: none;
+}
+header{
+    background: #222831;
+    color: white;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    margin: o auto;
+    padding: 0% 2% 0% 2%;
+}
+body{
+    background: #393e46;
+    width: auto;
+    height: auto;
+    position: absolute;
+    margin: auto;
+    background-size: cover;
+}
+.main{
+    margin: 8% auto;
+    top: 6%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+h4{
+    font-family: Protest Riot;
+    text-align: center;
+    letter-spacing: 3px;
+}
+button{
+    color: white;
+    background-color: #222831;
+}
+li{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+}
+.a{
+    margin-right: 1rem;
+    line-height: 1.5rem;
+    color: white;
+}
+.head{
+    font-family: Ysabeau Infant;
+}
+#co{
+    display: none;
+    transition-duration: 7s;
+}
+#dev{
+    margin: 0px 0px 0px 35px;
+    border-radius: 2rem;
+}
+#dev:hover{
+    box-shadow: 0px 0px 25px  #0092ca;
+}
+.x1{
+    margin-left: 35px;
+    display: inline;
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+}
+#load{
+    font-family: honk;
+    display: flex;
+    font-size: 350%;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-color: #393e46;
+    position: fixed;
+    background-size: cover;
+}
+#mess{
+    letter-spacing: 1.4px;
+    color: #eeeeee;
+    height: 5%;
+    font-family: Teachers;
+    width: 80%;
+    text-align: left;
+}
